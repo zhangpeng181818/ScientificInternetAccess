@@ -1,5 +1,5 @@
 # ScientificInternetAccess
-科学上网
+科学上网推荐
 
 全新VMESS/Trojan/VLESS协议
 
